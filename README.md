@@ -18,6 +18,7 @@ go run main.go
  - File IO
 
 ## Future Improvements
+ - Unit Tests
  - Goroutines
  - SFTP
  - Addler32, MD5, and more hashing algorithms
