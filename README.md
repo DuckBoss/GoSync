@@ -19,3 +19,4 @@ go run main.go
 
 ## Future Improvements
  - Goroutines
+ - SFTP
