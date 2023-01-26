@@ -1,0 +1,12 @@
+{
+    "version": "0.0.1",
+    "name": "gosync",
+    "directories": {
+        "source_directory": "",
+        "destination_directories": []
+    },
+    "settings": {
+        "hash_algorithm": "crc32",
+        "scan_interval_seconds": 5
+    }
+}
