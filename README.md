@@ -20,3 +20,4 @@ go run main.go
 ## Future Improvements
  - Goroutines
  - SFTP
+ - Addler32, MD5, and more hashing algorithms
