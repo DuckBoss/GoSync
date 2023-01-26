@@ -2,7 +2,7 @@
 A simple project for synchronizing and backing up files to one or more directories written in Go.
 #### This project was created as practice for learning core Go concepts.
 
-## Run
+## Usage
 - Setup the `manifest.json` with the `source_directory` and `destination_directories` paths.
 - Run the `main.go` file
 ```
